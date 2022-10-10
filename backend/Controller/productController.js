@@ -1,6 +1,7 @@
 require("dotenv").config();
 const db = require("../models/index");
 const product = db.Product;
+
 const jwt = require("jsonwebtoken");
 
 const getAllProducts = async (req, res) => {
