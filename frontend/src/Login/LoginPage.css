@@ -1,0 +1,30 @@
+.box{
+    float:center;
+    width:500px;
+    padding:10px;
+    margin-left:30%;
+    margin-top:50px;
+    border:solid;
+}
+
+.inputField{
+    padding:20px;
+}
+
+.registerbtn{
+    float:center;
+    padding:10px;
+    margin-top:10px;
+    margin-left:25%;
+}
+ 
+p{
+    margin-top:50px;
+}
+
+.title{
+    text-align: left;
+    color: darkgreen;
+    padding-top: 50px;
+    padding-left: 440px;
+}
